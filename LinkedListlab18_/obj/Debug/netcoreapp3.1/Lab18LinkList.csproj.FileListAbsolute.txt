@@ -1,0 +1,13 @@
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.exe
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.deps.json
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.runtimeconfig.json
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.runtimeconfig.dev.json
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.dll
+C:\Users\djnov\source\repos\Lab18LinkList\bin\Debug\netcoreapp3.1\Lab18LinkList.pdb
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.csprojAssemblyReference.cache
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.AssemblyInfoInputs.cache
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.AssemblyInfo.cs
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.csproj.CoreCompileInputs.cache
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.dll
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.pdb
+C:\Users\djnov\source\repos\Lab18LinkList\obj\Debug\netcoreapp3.1\Lab18LinkList.genruntimeconfig.cache
